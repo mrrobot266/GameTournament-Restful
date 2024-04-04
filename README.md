@@ -37,7 +37,7 @@
 
 ## Tools and Features
 
-* Look at available game tournamnets
+* Look at available game tournaments
 * Sign up for game tournament
 * Start tournament for randomized match-making
 * User login and sign up using XML local data storage
